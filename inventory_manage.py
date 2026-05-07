@@ -29,6 +29,8 @@ while True:
         for i, (item, data) in enumerate(item_list, start=1):
             print(f"{i}. {item} - {data['price']} gold")
 
+        print("--------------------------")
+        print("4. Sell")
         print("0. Exit Shop")
 
         choice = input("Choose item: ")
