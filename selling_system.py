@@ -1,4 +1,5 @@
-# NOTE: THIS SHOULD BE AFTER!!!!!
+# NOTE: THIS SHOULD BE AFTER
+# -------------------------
 # if choice == "0":
 # print("Leaving shop...")
 # in [inventory_manage.py] - Line 36 & 37
